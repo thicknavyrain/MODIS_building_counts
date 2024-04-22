@@ -1,0 +1,12 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>sur_refl_b01</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">2455.8043478261</MDI>
+      <MDI key="STATISTICS_MEAN">1444.5889679911</MDI>
+      <MDI key="STATISTICS_MINIMUM">508.71739130435</MDI>
+      <MDI key="STATISTICS_STDDEV">403.66984888795</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
