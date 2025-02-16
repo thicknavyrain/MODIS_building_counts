@@ -1,0 +1,12 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>Mean_Building_Coverage</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">345.11595318696</MDI>
+      <MDI key="STATISTICS_MEAN">84.542235488333</MDI>
+      <MDI key="STATISTICS_MINIMUM">-54.322927124522</MDI>
+      <MDI key="STATISTICS_STDDEV">87.925911577495</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
